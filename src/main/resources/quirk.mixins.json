@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "priority": 1500,
+  "package": "uwu.lopyluna.quirk.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "quirk.refmap.json",
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+  ]
+}
